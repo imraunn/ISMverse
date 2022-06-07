@@ -13,9 +13,9 @@ The **ISMVerse** is quite literally a virtual model of **IIT(ISM) Dhanbad**. The
     ```
 - Edit the **connection.php** files in the *scoreboard* folder and *utils* folder, and add the password of the database in them. (Since they are connecting to the same database, make sure the passwords entered are the same)
 
-- Edit the **secret.php** file in the *utils* folder, and the **secret.txt** in the *assets* folder, and enter a secret to be used for securing the database requests. (Again note that both of these secrets should be the same)
+- Edit the **secret.php** file in the *utils* folder, and the variable **secret** in the **TakeUserInput.cs** script of the Unity Project, and enter a secret to be used for securing the database requests. (Again note that both of these secrets should be the same)
 
-- Edit the **rootURL.txt** file in the *assets* folder and provide the full URL to the folder where the PHP scripts are present (in the live deployment, it is *http://ismverse.ml/utils/*)
+- Edit the and the variable **rootURL** in the **TakeUserInput.cs** script of the Unity Project and provide the full URL to the folder where the PHP scripts are present (in the live deployment, it is *http://ismverse.ml/utils/*)
 
 - Setup **Apache** and **MySQL** with the database password entered above, and copy all the files to the folder where Apache is running.
 
