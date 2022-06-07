@@ -1,5 +1,7 @@
 # ISMVerse
 
+**Check out the live instance [over here](http://ismverse.ml)**
+
 For the very first time in the history of IIT (ISM) Dhanbad, in synergy with Hackfest’s theme of ‘Metaverse’ we present our very own ISMverse! 
 
 Well, *what is the ISMverse?* 
@@ -22,7 +24,5 @@ The **ISMVerse** is quite literally a virtual model of **IIT(ISM) Dhanbad**. The
 - Replace the *Build* and *TemplateData* folders, and the *index.html* file of the cloned repo with the ones from the build.
 
 - Setup **Apache** and **MySQL** with the database password entered above, and copy all the files to the folder where Apache is running.
-
-**Check out the live instance [over here](http://ismverse.ml)**
 
 Made with ❤️ by Aniket Kumar Sahu, Raunak Asnani, Himanshu Das, Rishi Raj, Mohit Agarwal
