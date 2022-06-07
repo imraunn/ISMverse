@@ -17,6 +17,10 @@ The **ISMVerse** is quite literally a virtual model of **IIT(ISM) Dhanbad**. The
 
 - Edit the and the variable **rootURL** in the **TakeUserInput.cs** script of the Unity Project and provide the full URL to the folder where the PHP scripts are present (in the live deployment, it is *http://ismverse.ml/utils/*)
 
+- Build the project for WebGL.
+
+- Replace the *Build* and *TemplateData* folders, and the *index.html* file of the cloned repo with the ones from the build.
+
 - Setup **Apache** and **MySQL** with the database password entered above, and copy all the files to the folder where Apache is running.
 
 **Check out the live instance [over here](http://ismverse.ml)**
