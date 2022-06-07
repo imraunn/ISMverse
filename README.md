@@ -1,4 +1,4 @@
-# ISMVerse
+# ISMverse
 
 **Check out the live instance [over here](http://ismverse.ml)**
 
