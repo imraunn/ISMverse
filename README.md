@@ -6,7 +6,7 @@ For the very first time in the history of IIT (ISM) Dhanbad, in synergy with Hac
 
 Well, *what is the ISMverse?* 
 
-The **ISMVerse** is quite literally a virtual model of **IIT(ISM) Dhanbad**. The pristine Heritage building, the bustling RD tea stall, the calm and grand Diamond Hostel- you want it, you'll find it in the metaverse! There are characters from our life, big and small immortalized via the digital world. And the best part, ISMverse is not just limited to exploring. You will be able to interact, move and compete in challenges in this marvellous metaverse. Seems like the plot of a science fiction movie? Its made reality now. See for yourself the intricacies of ISMverse. 
+The **ISMverse** is quite literally a virtual model of **IIT(ISM) Dhanbad**. The pristine Heritage building, the bustling RD tea stall, the calm and grand Diamond Hostel- you want it, you'll find it in the metaverse! There are characters from our life, big and small immortalized via the digital world. And the best part, ISMverse is not just limited to exploring. You will be able to interact, move and compete in challenges in this marvellous metaverse. Seems like the plot of a science fiction movie? Its made reality now. See for yourself the intricacies of ISMverse. 
 
 ### Steps to deploy
 - Clone the repo
